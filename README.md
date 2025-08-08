@@ -14,8 +14,6 @@ Python is my go-to for scripting and automation, but I'm currently diving into R
 
 While some of my projects are personal utilities, I created the **[Python Security Toolkit](https://github.com/TylerPauley/Python-Security-Toolkit)** as a public showcase of my skills. It's a collection of scripts for security analysis and reconnaissance, and I'm actively expanding it.
 
-> **Note:** Be sure to "pin" the `Python-Security-Toolkit` repository to your profile! It will appear visually above or below this README.
-
 ---
 
 ### 🌱 I'm Currently Learning
