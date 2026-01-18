@@ -46,4 +46,4 @@ While some of my projects are personal utilities, I created the **[Python Securi
 ### 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tylerpauleysecurity)
-🌎 [tylerpauley.dev](https://www.tylerpauley.dev)
+🌎 [tylerpauley.dev](https://www.tylerpauley.dev){:target="_blank"}
