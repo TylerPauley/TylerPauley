@@ -47,6 +47,6 @@ While some of my projects are personal utilities, I created the **[Python Securi
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tylerpauleysecurity)
 <br>
-<a href="[http://example.com/](https://www.tylerpauley.dev)" target="_blank">[Hello, world!](https://www.tylerpauley.dev)</a>
+<a href="[http://example.com/](https://www.tylerpauley.dev)" target="_blank">tylerpauley.dev</a>
 <br>
 🌎 [tylerpauley.dev](https://www.tylerpauley.dev){:target="_blank"}
